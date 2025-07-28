@@ -1,0 +1,26 @@
+⏳ Countdown Timer
+A stylish countdown timer application for setting a specific date/time and watching the countdown in real-time. Built with a modern aesthetic and responsive layout.
+
+🚀 Features
+🕐 Live countdown (Days, Hours, Minutes, Seconds)
+🔔 Displays completion message
+🌗 Dark/Light mode toggle
+📱 Mobile-friendly and responsive
+📁 Files
+countdown timer.html — HTML structure
+countdown timer.css — Visual design and responsiveness
+countdown timer.js — Timer logic and updates
+🔧 How to Use
+Open countdown timer.html in a browser.
+Select your target date/time.
+Click Start Countdown and track the time left.
+Switch theme with the top-right toggle.
+🛠 Tech Stack
+HTML5
+CSS3 (Flexbox, CSS Variables)
+JavaScript (Date/time handling, DOM updates)
+📌 Author
+Crafted with care by Shubhankar
+
+📜 License
+Licensed for personal and educational use.
